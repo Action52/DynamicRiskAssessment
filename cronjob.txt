@@ -1,0 +1,2 @@
+*/10 * * * * /usr/bin/python3 /Users/luisalfredoleonvillapun/Library/CloudStorage/GoogleDrive-leonvillapun@gmail.com/Mi unidad/BDMA/Machine Learning Devops Engineer Nanodegree/MLModelScoringAndMonitoring/DynamicRiskAssessment/fullprocess.py
+
